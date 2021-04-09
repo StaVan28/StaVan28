@@ -11,11 +11,9 @@
 
 # About ME 💬 :
 
-### - I'm 17 years MIPT student enthusiast from Belarus. 
+### - I'm 17 years MIPT student enthusiast from Belarus. This is me during codding)
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/StaVan28/StaVan28/blob/master/assets/Howard.gif">
-
-This is me -->
 
 ### - Learning :
 - ✨ How to write correctly 
@@ -26,8 +24,8 @@ This is me -->
 
 ### - Hobbies : 
 - ✨ Exploring the interesting world of programming ❤
-- ✨ Playing football
-- ✨ "What? Where? When?" game
+- ✨ Playing Football
+- ✨ "What? Where? When?" Game
 - ✨ Watching Anime
 
 </br>
@@ -48,7 +46,7 @@ This is me -->
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=StaVan28&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
