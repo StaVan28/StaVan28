@@ -26,7 +26,6 @@
 - ✨ Exploring the interesting world of programming ❤
 - ✨ Playing Football
 - ✨ "What? Where? When?" Game
-- ✨ Watching Anime
 
 </br>
 </br>
