@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 17 years MIPT student enthusiast from Belarus. This is me during codding)
+### - I'm 18 years MIPT student enthusiast from Belarus. This is me during codding)
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/StaVan28/StaVan28/blob/master/assets/Howard.gif">
 
@@ -21,11 +21,6 @@
 - ✨ Linux system 
 - ✨ Makefiles 
 - ✨ Compilers
-
-### - Hobbies : 
-- ✨ Exploring the interesting world of programming ❤
-- ✨ Playing Football
-- ✨ "What? Where? When?" Game
 
 </br>
 </br>
