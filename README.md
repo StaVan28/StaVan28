@@ -16,7 +16,6 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/StaVan28/StaVan28/blob/master/assets/Howard.gif">
 
 ### - Learning :
-- ✨ How to write correctly 
 - ✨ C and C++  
 - ✨ Linux system 
 - ✨ Makefiles 
